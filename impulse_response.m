@@ -1,5 +1,5 @@
 %1
-%ideal impulse response
+
 hnT = ImpulseR(n,T,Ws,Wc1,Wc2);
 stem(n,hnT);
 xlabel("n")
